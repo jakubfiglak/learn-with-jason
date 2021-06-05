@@ -1,0 +1,10 @@
+[
+    {
+        "functionRoute": "hello-world",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "C:/Programowanie/learn-with-jason/gatsby-functions/src/api/hello-world.js",
+        "originalRelativeFilePath": "hello-world.js",
+        "relativeCompiledFilePath": "hello-world.js",
+        "absoluteCompiledFilePath": "C:\\Programowanie\\learn-with-jason\\gatsby-functions\\.cache\\functions\\hello-world.js"
+    }
+]
